@@ -1,0 +1,5 @@
+/* We're using Tailwind CSS, so we don't need much custom CSS */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
